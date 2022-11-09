@@ -1,0 +1,9 @@
+Prefix: "&8[&6Spawn&8] &7"
+
+Messages:
+    SpawnNotSet: "Der Spawn wurde &cnicht &7gesetzt."
+    SpawnSet: "Der Spawn wurde &2erfolgreich &7gesetzt."
+    SpawnTeleport: "Du wurdest &2erfolgreich &7zum Spawn Teleportiert."
+    NoPermission: "Dazu hast du &ckeine &7rechte."
+Permissions:
+    SetSpawn: "system.setspawn"
